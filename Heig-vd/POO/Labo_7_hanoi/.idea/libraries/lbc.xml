@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lbc">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/classeGraphique" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
